@@ -1,0 +1,39 @@
+body {
+    background-color: #f4a8a2;
+    
+}
+
+.box{
+    border: 30px;
+    background-color: white; 
+    width: 350px;
+    height: 250px;
+    border-radius: 40px;
+    padding-top: 50px;
+    margin: 50px;
+    border-top-left-radius: 8px;
+    box-shadow: 5px 5px 10px rgb(68, 68, 68);
+}
+.box1{
+    border-top: 6px solid rgb(230, 73, 73);
+    
+}
+.box2{
+    border-top: 6px solid teal;
+}
+.box3{
+    border-top: 6px solid  goldenrod;
+}
+.box4{
+    border-top: 6px solid skyblue;
+}
+.box5{
+    border-top: 6px solid yellow;
+}
+.box6{
+    border-top: 6px solid rgb(64, 64, 138);
+}
+
+
+
+
